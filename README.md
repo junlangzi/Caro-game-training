@@ -18,7 +18,7 @@
 ## *Thuật toán để tính toán nước đi.*
 
 
-**Luồng Tính Toán Nước Đi Chính (find\_best\_move)**
+**Luồng Tính Toán Nước Đi Chính (find\_best\_move)** <br>
 Hàm find\_best\_move hoạt động theo một hệ thống ưu tiên rõ ràng để quyết định nước đi:
 
 1. **Khởi tạo và Chuẩn bị:**
