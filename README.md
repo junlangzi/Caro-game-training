@@ -129,8 +129,9 @@ Quá trình này kết hợp cả chiến thuật trực tiếp (thắng/chặn)
 
 
 **Màn hình chính**
-
+<br>
 ![image](https://raw.githubusercontent.com/junlangzi/Caro-game-training/refs/heads/main/demo/demo1.png)
+<br>
 **Màn hình training**
 
 ![image](https://raw.githubusercontent.com/junlangzi/Caro-game-training/refs/heads/main/demo/demo2.png)
